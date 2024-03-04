@@ -1,0 +1,18 @@
+.project-item {
+  width: 24%;
+  margin-right: 12px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0px 0px 4px 0px #000;
+}
+
+.projects-img {
+  width: 100%;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.name {
+  padding-left: 12px;
+}
